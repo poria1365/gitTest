@@ -7,5 +7,6 @@ public class Main {
         System.out.println("Hello World%n");
         System.out.println("Test");
         System.out.println("test2");
+        System.out.println("newBranch");
     }
 }
